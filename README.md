@@ -1,2 +1,0 @@
-# college-events
-College Events
